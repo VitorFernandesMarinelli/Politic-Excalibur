@@ -1,31 +1,31 @@
 # Politic-Excalibur
 Version 1.1 • Effective 20 April 2025
 
-Who We Are
+1.Who We Are
 Excalibur (“App”) is a meme application provided by LuxForge Studios Ltda.
 Contact: privacy@luxforgestudios.com
 
-Data Collection
+2.Data Collection
 The App collects, stores and shares no personal or non‑personal data.
 • No analytics, ads, crash logs, cookies or tracking SDKs.
 
-Intended Audience
+3.Intended Audience
 The App targets users 13 years and older (16 in the EEA or where required by law). It is not directed to children under these ages.
 
-Children’s Privacy
+4.Children’s Privacy
 We do not knowingly collect data from children. If a minor’s data is supplied, e‑mail us and we will delete it promptly.
 
-Security
+5.Security
 Because the App contains no server features and transmits no user data, security risk is minimal.
 
-Policy Changes
+6.Policy Changes
 Should future versions introduce data collection, we will (i) update this Policy and (ii) update the Google Play Data Safety section before release.
 
-Contact
+7.Contact
 privacy@luxforgestudios.com
-[01:51]
-  THIS APP IS A MEME. IT HAS NO REAL FUNCTIONALITY, NO GAMEPLAY, NO OBJECTIVE.
-YOU PAY 1 (ONE) COIN ONLY TO BE MOCKED BY A SWORD THAT WILL NEVER MOVE.
+
+THIS APP IS A MEME. IT HAS NO REAL FUNCTIONALITY, NO GAMEPLAY, NO OBJECTIVE.
+A SWORD THAT WILL NEVER MOVE.
 
 • Excalibur is intended for humor purposes only.
 • No personal data is collected or stored.
