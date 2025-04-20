@@ -1,6 +1,6 @@
 # Politic-Excalibur
 Privacy Policy
-This privacy policy applies to the Excalibur app (hereby referred to as "Application") for mobile devices that was created by VÃ­tor Fernandes Marinelli (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
+This privacy policy applies to the Excalibur app (hereby referred to as "Application") for mobile devices that was created by Ví­tor Fernandes Marinelli (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
 
 
 What information does the Application obtain and how is it used?
